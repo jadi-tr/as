@@ -1,0 +1,128 @@
+body{
+    padding: 0;
+    margin: 0;
+background-image: url(964.jpg);
+background-size: 900px;
+background-position: right;
+background-repeat: no-repeat;
+    }
+    
+    .nav {
+    background-color:  #1E5192;
+    height: 150px;
+   
+
+}
+
+.as{
+margin-right: 2px;
+}
+
+  .inscrever{
+    background-color: whitesmoke;
+    width: 120px;
+    height: 50px;
+    border: none;
+  } 
+     .upentrar a:hover {
+    
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1), inset 0 0 1px rgba(255, 255, 255, 0.6);
+        background: rgba(255, 255, 255, 0.1);
+        color: rgba(0, 35, 122, 0.7);
+
+  }
+  
+.entrar {
+    background-color: whitesmoke;
+    width: 120px;
+    height: 50px;
+    border: none;
+}
+   
+.upbotao{
+margin-left: 85rem;
+ 
+
+}
+.upinscrever{
+        background-color: whitesmoke;
+        width: 90px;
+        height: 40px;
+      border: none;
+    
+      }
+      
+    .upentrar {
+        background-color: whitesmoke;
+        width: 90px;
+        height: 40px;
+        border: none;
+       
+    
+}
+.logo{
+    margin-top: 10px;
+    margin-right: 997px;
+    width: 190px;
+    height: 80px;
+}
+footer{
+  background-color: #1E5192;
+    bottom: 0;
+    width: 100%;
+    height: 40%;	
+   
+
+}
+.redes{
+  margin-top: 50px;
+display: right;
+text-indent: 10px;
+}
+
+.navlinks{
+ 
+  
+  font-size: 61px;
+  float: center;
+  line-height: 55px;
+  
+}
+.navlinks{
+  list-style: none;
+  font-size: 20px;
+  
+  
+}
+  .navlinks a {
+  text-decoration: none;
+  color: white;
+}
+.copy{
+ margin-top: 9px;
+ 
+  float: center;
+  color :white ;
+  font-size: 20px;
+
+}
+  .copy a{
+   text-decoration: none;
+   color :white;
+
+  }
+  .comp{
+    margin-top: 20px;
+    margin-left: 554px;
+    height: 120px;
+    width: 110px;
+    
+  }
+  .oip{
+    width: 700px;
+    height: 600px;
+  }
+    
+.w{
+  
+}
